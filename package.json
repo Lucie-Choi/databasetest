@@ -1,0 +1,16 @@
+{
+  "name": "mongodbtutotiral",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "mongoose": "^4.13.6"
+  }
+}
